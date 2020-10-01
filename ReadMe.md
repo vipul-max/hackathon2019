@@ -20,7 +20,7 @@ Open science is essential for being able to work together effectively. We want t
 
 You can find a living document of the Hackathon projects at [this google sheet](https://docs.google.com/spreadsheets/d/15grRPW0H4uFXWjUZd4n2UFgaEPEmWnXd4kexYBm3eNU/edit?usp=sharing).
 
-It contains information on:
+It contains information on that project:
 
 * Project name
 * Issue in OHBM Hackathon GitHub repository (link)
