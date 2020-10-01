@@ -16,7 +16,7 @@ We aim at providing a space where we can all thrive, no matter if it is our firs
 
 Open science is essential for being able to work together effectively. We want to help build a community where openness is the norm and siloes the exception.
 
-### List of projects
+### List of projects are shown:-
 
 You can find a living document of the Hackathon projects at [this google sheet](https://docs.google.com/spreadsheets/d/15grRPW0H4uFXWjUZd4n2UFgaEPEmWnXd4kexYBm3eNU/edit?usp=sharing).
 
